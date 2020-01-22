@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Texte\\5AHIF\\Csharp\\Docker-Wpf-Web-Application\\Docker-Wpf-Web-Application\\Docker-Wpf-Web-Application.csproj": {}
+    "D:\\Texte\\5AHIF\\Csharp\\docker-wpf-exercise-GusenbauerMax\\Docker-Wpf-Web-Application\\Docker-Wpf-Web-Application\\Docker-Wpf-Web-Application.csproj": {}
   },
   "projects": {
-    "D:\\Texte\\5AHIF\\Csharp\\Docker-Wpf-Web-Application\\Docker-Wpf-Web-Application\\Docker-Wpf-Web-Application.csproj": {
+    "D:\\Texte\\5AHIF\\Csharp\\docker-wpf-exercise-GusenbauerMax\\Docker-Wpf-Web-Application\\Docker-Wpf-Web-Application\\Docker-Wpf-Web-Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Texte\\5AHIF\\Csharp\\Docker-Wpf-Web-Application\\Docker-Wpf-Web-Application\\Docker-Wpf-Web-Application.csproj",
+        "projectUniqueName": "D:\\Texte\\5AHIF\\Csharp\\docker-wpf-exercise-GusenbauerMax\\Docker-Wpf-Web-Application\\Docker-Wpf-Web-Application\\Docker-Wpf-Web-Application.csproj",
         "projectName": "Docker-Wpf-Web-Application",
-        "projectPath": "D:\\Texte\\5AHIF\\Csharp\\Docker-Wpf-Web-Application\\Docker-Wpf-Web-Application\\Docker-Wpf-Web-Application.csproj",
+        "projectPath": "D:\\Texte\\5AHIF\\Csharp\\docker-wpf-exercise-GusenbauerMax\\Docker-Wpf-Web-Application\\Docker-Wpf-Web-Application\\Docker-Wpf-Web-Application.csproj",
         "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-        "outputPath": "D:\\Texte\\5AHIF\\Csharp\\Docker-Wpf-Web-Application\\Docker-Wpf-Web-Application\\obj\\",
+        "outputPath": "D:\\Texte\\5AHIF\\Csharp\\docker-wpf-exercise-GusenbauerMax\\Docker-Wpf-Web-Application\\Docker-Wpf-Web-Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

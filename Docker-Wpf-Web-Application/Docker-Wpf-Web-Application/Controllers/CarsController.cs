@@ -30,7 +30,7 @@ namespace Docker_Wpf_Web_Application.Controllers
 
         // GET: api/CarsForDay
         [HttpGet]
-        [Route("carsForDay")]
+        [Route("carsForDay/{date}")]
         public async Task<ActionResult<IEnumerable<Car>>> GetCarsForDay(DateTime date)
         {
             return await _context.Cars.Where(car => car.Books.FirstOrDefault(book => book.Date.Day == date.Day && book.Date.Year == date.Year && book.Date.Month == date.Month) == null).ToListAsync();
